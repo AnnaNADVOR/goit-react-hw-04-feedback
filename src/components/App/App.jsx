@@ -1,4 +1,3 @@
-import { Component } from "react";
 import { useState } from "react";
 
 import Section from "../Feedback/Section/Section";
@@ -6,7 +5,6 @@ import Statistics from "../Feedback/Statistics/Statistics";
 import FeedbackOptions from "../Feedback/FeedbackOptions/FeedbackOptions";
 import Notification from "../Feedback/Notification/Notification";
 import { Container } from "./App.styled";
-
      
 export default function App() {
 
